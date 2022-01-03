@@ -10,7 +10,7 @@ create a **fork** of this repository in your personal GitHub space.
 Second, clone your forked repository.  **Do not clone the original repository!!**  Clone the repository
 that you find in your personal space in GitHub.
 
-### Step Two: Run the test Calculate Income Tax using if..else - 15 points
+### Step Two: Run the test Calculate Income Tax using if..else - 30 points
 
 Consider the following table of income tax rate per annual income:
 
